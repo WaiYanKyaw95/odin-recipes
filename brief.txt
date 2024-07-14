@@ -1,0 +1,3 @@
+This is a project where I will apply my HTML knowledge into a project called Recipes.
+This will have index.html for the main page.
+This will have different directories that will show all the recipes.
